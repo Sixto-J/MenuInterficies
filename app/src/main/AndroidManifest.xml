@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MenuInterficies"
         tools:targetApi="31">
+
         <activity
             android:name=".Form"
             android:exported="false" />
@@ -19,7 +20,7 @@
             android:name=".Overlap"
             android:exported="false" />
         <activity
-            android:name=".RadioGroup"
+            android:name=".RelativeLink"
             android:exported="false"
             android:theme="@style/Theme.MenuInterficies" />
         <activity
@@ -27,9 +28,9 @@
             android:exported="false"
             android:theme="@style/Theme.MenuInterficies" />
         <activity
-            android:name=".RelativeLink"
+            android:name=".Radio_Group"
             android:exported="false"
-            android:theme="@style/Theme.MenuInterficies" />
+            android:theme="@style/Theme.MenuInterficies"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

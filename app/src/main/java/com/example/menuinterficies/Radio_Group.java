@@ -6,7 +6,7 @@ import android.widget.CompoundButton;
 import androidx.appcompat.app.AppCompatActivity;
 
 
-public class RadioGroup extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
+public class Radio_Group extends AppCompatActivity implements CompoundButton.OnCheckedChangeListener {
     CheckBox cb1, cb2, cb3;
 
     @Override
